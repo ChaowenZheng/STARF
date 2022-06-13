@@ -1,0 +1,80 @@
+ISO.Code,IMFcode,Country.Name,Development,Continent,Subregion,Income
+USA,111,United States,G7,North America,Northern America,High income
+GBR,112,United Kingdom,G7,Europe,Northern Europe,High income
+AUT,122,Austria,Developed,Europe,Western Europe,High income
+BEL,124,Belgium,Developed,Europe,Western Europe,High income
+DNK,128,Denmark,Developed,Europe,Northern Europe,High income
+FRA,132,France,G7,Europe,Western Europe,High income
+DEU,134,Germany,G7,Europe,Western Europe,High income
+ITA,136,Italy,G7,Europe,Southern Europe,High income
+LUX,137,Luxembourg,Developed,Europe,Western Europe,High income
+NLD,138,"Netherlands, The",Developed,Europe,Western Europe,High income
+NOR,142,Norway,Developed,Europe,Northern Europe,High income
+SWE,144,Sweden,Developed,Europe,Northern Europe,High income
+CHE,146,Switzerland,Developed,Europe,Western Europe,High income
+CAN,156,Canada,G7,North America,Northern America,High income
+JPN,158,Japan,G7,Asia,Eastern Asia,High income
+FIN,172,Finland,Developed,Europe,Northern Europe,High income
+GRC,174,Greece,Developed,Europe,Southern Europe,High income
+ISL,176,Iceland,Developed,Europe,Northern Europe,High income
+IRL,178,Ireland,Developed,Europe,Northern Europe,High income
+MLT,181,Malta,Developed,Europe,Southern Europe,High income
+PRT,182,Portugal,Developed,Europe,Southern Europe,High income
+ESP,184,Spain,Developed,Europe,Southern Europe,High income
+TUR,186,Turkey,Developing,Asia,Western Asia,Upper-middle income
+AUS,193,Australia,Developed,Oceania,Pacific Islands,High income
+NZL,196,New Zealand,Developed,Oceania,Pacific Islands,High income
+ZAF,199,South Africa,Developing,Africa,Southern Africa,Upper-middle income
+ARG,213,Argentina,Developing,South America,South America,Upper-middle income
+BOL,218,Bolivia,Developing,South America,South America,Lower-middle income
+BRA,223,Brazil,Developing,South America,South America,Upper-middle income
+CHL,228,Chile,Developing,South America,South America,High income
+COL,233,Colombia,Developing,South America,South America,Upper-middle income
+CRI,238,Costa Rica,Developing,North America,Central America,Upper-middle income
+DOM,243,Dominican Rep.,Developing,North America,Caribbean,Upper-middle income
+ECU,248,Ecuador,Developing,South America,South America,Upper-middle income
+GTM,258,Guatemala,Developing,North America,Central America,Upper-middle income
+HND,268,Honduras,Developing,North America,Central America,Lower-middle income
+MEX,273,Mexico,Developing,North America,Central America,Upper-middle income
+PAN,283,Panama,Developing,North America,Central America,High income
+PRY,288,Paraguay,Developing,South America,South America,Upper-middle income
+PER,293,Peru,Developing,South America,South America,Upper-middle income
+URY,298,Uruguay,Developing,South America,South America,High income
+VEN,299,"Venezuela, Rep. Bolivariana de",Developing,South America,South America,Upper-middle income
+BRB,316,Barbados,Developing,North America,Caribbean,High income
+JAM,343,Jamaica,Developing,North America,Caribbean,Upper-middle income
+TTO,369,Trinidad and Tobago,Developing,North America,Caribbean,High income
+CYP,423,Cyprus,Developed,Europe,Western Asia,High income
+IRN,429,"Iran, Islamic Rep. of",Developing,Asia,Southern Asia,Upper-middle income
+ISR,436,Israel,Developed,Asia,Western Asia,High income
+JOR,439,Jordan,Developing,Asia,Western Asia,Upper-middle income
+EGY,469,"Egypt, Arab Rep. of",Developing,Africa,Northern Africa,Lower-middle income
+LKA,524,Sri Lanka,Developing,Asia,Southern Asia,Lower-middle income
+HKG,532,"China, P.R.: Hong Kong",Developed,Asia,Eastern Asia,High income
+IND,534,India,Developing,Asia,Southern Asia,Lower-middle income
+IDN,536,Indonesia,Developing,Asia,South-Eastern Asia,Upper-middle income
+KOR,542,"Korea, Rep. of",Developed,Asia,Eastern Asia,High income
+MYS,548,Malaysia,Developing,Asia,South-Eastern Asia,Upper-middle income
+PHL,566,Philippines,Developing,Asia,South-Eastern Asia,Lower-middle income
+SGP,576,Singapore,Developed,Asia,South-Eastern Asia,High income
+THA,578,Thailand,Developing,Asia,South-Eastern Asia,Upper-middle income
+BWA,616,Botswana,Developing,Africa,Southern Africa,Upper-middle income
+CMR,622,Cameroon,Developing,Africa,Central Africa,Lower-middle income
+GAB,646,Gabon,Developing,Africa,Central Africa,Upper-middle income
+CIV,662,"Cote d'Ivoire, Republic of",Developing,Africa,Western Africa,Lower-middle income
+KEN,664,Kenya,Developing,Africa,Eastern Africa,Lower-middle income
+MUS,684,Mauritius,Developing,Africa,Eastern Africa,High income
+MAR,686,Morocco,Developing,Africa,Northern Africa,Lower-middle income
+MOZ,688,"Mozambique, Rep. of",Developing,Africa,Eastern Africa,Low income
+NER,692,Niger,Developing,Africa,Western Africa,Low income
+NGA,694,Nigeria,Developing,Africa,Western Africa,Lower-middle income
+ZWE,698,Zimbabwe,Developing,Africa,Eastern Africa,Lower-middle income
+RWA,714,Rwanda,Developing,Africa,Eastern Africa,Low income
+SEN,722,Senegal,Developing,Africa,Western Africa,Lower-middle income
+NAM,728,Namibia,Developing,Africa,Southern Africa,Upper-middle income
+TZA,738,"Tanzania, United Rep. of",Developing,Africa,Eastern Africa,Lower-middle income
+TUN,744,Tunisia,Developing,Africa,Northern Africa,Lower-middle income
+BFA,748,Burkina Faso,Developing,Africa,Western Africa,Low income
+ZMB,754,Zambia,Developing,Africa,Eastern Africa,Lower-middle income
+CHN,924,"China, P.R.: Mainland",Developing,Asia,Eastern Asia,Upper-middle income
+ROU,968,Romania,Developed,Europe,Eastern Europe,High income
